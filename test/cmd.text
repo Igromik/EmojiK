@@ -1,0 +1,13 @@
+>>> cd C:\Users\...\EmojiK
+
+
+To Convert An Image:
+
+>>> main.py --image --file test\rick.png
+>>> *IMAGE*
+
+
+To Convert A Video:
+
+>>> main.py --video --file test\color.mp4 --color
+>>> *VIDEO*
